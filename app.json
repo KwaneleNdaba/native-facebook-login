@@ -7,8 +7,8 @@
         "react-native-fbsdk-next",
         {
           "appID": "1006784247282616",
-          "clientToken": "c5078631e4065b60d7544a95xxxxxxxx",
-          "displayName": "RN SDK Demo"
+          "clientToken": "6dd7d69a6e45fb1ddfd6833a1530042b",
+          "displayName": "healthApp_login"
         }
       ]
     ],
